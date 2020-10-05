@@ -2,8 +2,5 @@ This is my firrst file.
 This is me firste file.
 test rete.
 This test 3 branch
-<<<<<<< HEAD
 33test123123123
-=======
-33t
->>>>>>> test2
+test10;
