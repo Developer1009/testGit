@@ -1,6 +1,0 @@
-This is my firrst file.
-This is me firste file.
-test rete.
-This test 3 branch
-33test123123123
-test10;
